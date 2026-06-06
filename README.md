@@ -1,3 +1,5 @@
+> Note: This repository is a public presentation of the project and does not include the full source code.
+
 <div align="center">
 
 # 🐾 Mini Companion
