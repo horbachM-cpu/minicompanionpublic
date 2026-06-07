@@ -4,9 +4,9 @@
 
 # 🐾 Mini Companion
 
-### *Your AI-Powered Kawaii Virtual Pet*
+### *A Cute Desktop Mascot & Character UI Prototype*
 
-A delightful Tamagotchi-style companion that combines nostalgic pet care with modern AI conversations!
+A playful Tamagotchi-inspired mascot UI that combines light pet-care mechanics, local state, and lightweight AI conversations.
 
 [✨ Features](#-features) • [🎮 Companions](#-meet-your-companions) • [📸 Screenshots](#-screenshots) • [💬 Contact](#-get-in-touch)
 
@@ -82,7 +82,7 @@ Mystical, wise, and enchanting
 <h3>💕 Aria</h3>
 <b>Human</b>
 <br>
-Flirty, romantic, with optional spicy mode
+Friendly, expressive, and a little theatrical
 </td>
 </tr>
 </table>
@@ -199,7 +199,7 @@ I'm happy to share access to the full repository and discuss the technical imple
 
 <div align="center">
 
-### Made with 💕 for kawaii companions everywhere!
+### Made with 💕 for cute companions everywhere!
 
 *Remember: Your virtual companion is always there for you* 🐾
 
